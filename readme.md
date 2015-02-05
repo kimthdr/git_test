@@ -1,1 +1,1 @@
-Git Lecture Page
+This is Git Lecture Page
